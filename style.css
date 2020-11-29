@@ -1,0 +1,15 @@
+header {
+  border-bottom: 1px solid black;
+}
+
+nav {
+  width : 200px;
+  height: 1000px;
+  float:left;
+  border-right: solid 1px black;
+}
+article {
+  width : 600px;
+  float:left;
+  padding-left: 20px;
+}
